@@ -108,7 +108,22 @@ This script takes the JSON data from the Reddit scraper, converts it into embedd
 
 ---  
 ## **Output**
+<p align="center">
+  <img src="scraped data.png" alt="Reddit Scraper Output" width="600"/>
+  <br/>
+  <i>Example of data scraped from Reddit posts.</i>
+</p>
 
+<p align="center">
+  <img src="bad generation.png" alt="Reddit Scraper Output" width="600"/>
+  <br/>
+  <i>Bad output generated from context.</i>
+</p>
 
+<p align="center">
+  <img src="good generation.png" alt="Reddit Scraper Output" width="600"/>
+  <br/>
+  <i>Good output generated from context + better prompt.</i>
+</p>
 
 Feel free to customize this pipeline for your specific use case or extend it to include more advanced features!
